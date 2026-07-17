@@ -1,0 +1,30 @@
+# Setup files (large files — do not upload to GitHub)
+*.exe
+*.msi
+*.zip
+*.rar
+*.iso
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
+# User data
+*.json
+*.cfg
+*.ini
+*.dat
